@@ -1,4 +1,4 @@
-package main
+package kalkulator
 
 func Add(x, y int) int {
 	return x + y
